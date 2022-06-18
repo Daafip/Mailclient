@@ -7,6 +7,7 @@ Vooral bij oudleden was dit een probleem, maar het werkt ook goed voor het maile
 Na wat [literatuur onderzoek](https://realpython.com/python-send-email/) bleek het makkelijk te kunnen in python met wat kennis van html. 
 Ik gebruik zelf graag jupyter notebook te vinden op [anaconda](https://www.anaconda.com/), maar 'gewoon'[python](https://www.python.org/downloads/) kan natuurlijk ook als moet je dan wel met csv gaan werken, iets meer moeite.
 Zorg wel dat je [pandas](https://pandas.pydata.org/) en [numpy](https://pandas.pydata.org/) installeert in je omgeving (pip install ...)
+De exacte packages staan envt ook in environment-mailclient.yml en kan geinstaleerd worden via conda create --name mailclient --file environment-mailclient.yml (zorg wel dat het bestand op de juiste plek staat).
 
 Het notebook bestand is ook in git te openen, hier beschrijf ik wat ik doe en hoe het werkt.
 Op de Wiki staat een extra bestand alleen voor C.S.R. leden waar specifieke mail informatie op staat(hoeft niet per se publiek zegmaar)
