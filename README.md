@@ -16,3 +16,4 @@ Er zijn 2 typen scripjes
 1. Mail leden op basis van een ketzer: iedereen in de ketzer,  hierbij hoef je zelf niks te doen, alleen de html tekst aan te passen
 2. Mail leden op basis van een ketzer: op basis van niks ingevoerd: bijv nog geen galadate. 
 3. Mail leden met info uit een excel, hierbij lever je een excel aan en kan je kollomen uit de excel per persoon aanroepen in je html tekst.
+4. Mail leden op basis van ketzer, maar met check voor of er ook dubbele in staan (_Had trouwens ook bij 2 gekunt maar nu is het zo_)
